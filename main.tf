@@ -17,3 +17,9 @@ resource "azurerm_resource_group" "example" {
   name     = "example-Sadanand"
   location = "West Europe"
 }
+
+# Create a resource group
+resource "azurerm_resource_group" "example" {
+  name     = "example-Sada"
+  location = "West Europe"
+}
