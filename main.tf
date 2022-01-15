@@ -19,7 +19,7 @@ resource "azurerm_resource_group" "example" {
 }
 
 # Create a resource group
-resource "azurerm_resource_group" "example" {
+resource "azurerm_resource_group" "Testing" {
   name     = "example-Sada"
   location = "West Europe"
 }
